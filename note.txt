@@ -1,0 +1,5 @@
+1-new folder contain testcases of upload image
+2-bug report for upload image
+3-e-wallet scenarios
+4-solve the question of qa-task2
+video of bug
